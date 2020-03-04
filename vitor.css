@@ -1,8 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim Raleway&display=swap');
+
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: 1.zen;
+    font-size: 1.2em;
 }
 
 .text-title {
     font-family: 'Akronim', cursive;
+    font-size: 8em;
+    color: #ffffff
+}
+
+.text-subtitle{
+
+    font-family: 'raleway',sans-serif;  
+    font-size: 2em;
+    color: #fff;
+}      
+
+.bg-title{
+
+    background-image: linear-gradient(to bottom right,#113c99,#e4d948);
 }
