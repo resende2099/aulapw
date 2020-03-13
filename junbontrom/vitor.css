@@ -9,7 +9,8 @@ body {
 .text-title {
     font-family: 'Akronim', cursive;
     font-size: 8em;
-    color: #ffffff
+    background-image: url(img/catulu.jpg);
+
 }
 
 .text-subtitle{
